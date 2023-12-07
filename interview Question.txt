@@ -1,0 +1,1 @@
+Q1) What is the difference b/w pointer array of structure and array of pointer to structure?		(E:\tnp\17-10-23)
